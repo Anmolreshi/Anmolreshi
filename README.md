@@ -3,7 +3,7 @@ This is Anmol , an 2nd Year Engineering Student at University Institute of Engin
 
 <b>My Tech Stacks :</b><br> 
 <img width="100px" width="100px" src="html.png"/>
-<img height="100px" width="10px" src="js.png"/>
+<img height="100px" width="100px" src="jss.png"/>
 <img width="100px" width="100px"  src="jquery.jpg"/>
 <img width="100px" width="100px"  src="css.jpg"/>
 <img width="100px" width="100px"  src="c++.jpg"/>
