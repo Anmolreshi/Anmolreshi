@@ -3,7 +3,7 @@ This is Anmol , an 2nd Year Engineering Student at University Institute of Engin
 
 <b>My Tech Stacks :</b><br>
 <div style="height:10px;"> 
-<img src="https://th.bing.com/th/id/R94e59b789eebc52beeb10ba88bb49ce4?rik=9jtIyj9rowrKhA&riu=http%3a%2f%2fictacademy.com.ng%2fwp-content%2fuploads%2f2017%2f10%2f14570828119302_illu-cours_html5-css3.png&ehk=Pu456lHcjVaQQDZ0b0JMxhL9g0byZ79AImYQeER6eY4%3d&risl=&pid=ImgRaw"/>
+<img src="html.png"/>
   </div>
 📫 <b>How to reach me:</b> <br>
 Email: anmolreshi@gmail.com
