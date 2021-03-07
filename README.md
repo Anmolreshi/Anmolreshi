@@ -1,7 +1,7 @@
 ### Hi There 👋
 This is Anmol , an 2nd Year Engineering Student at University Institute of Engineering and Technology (UIET), Punjab University Chandigarh. I love ⚡ Programming in C++ mainly as it involves problem solving ,and I Love to be Front-End developer and passionate in developing UI of website as well .
 
-📫 How to reach me: 
+📫 How to reach me: <br>
 Email: anmolreshi@gmail.com
 
 <!--
