@@ -2,10 +2,10 @@
 This is Anmol , an 2nd Year Engineering Student at University Institute of Engineering and Technology (UIET), Punjab University Chandigarh. I love ⚡ Programming in C++ mainly as it involves problem solving ,and I Love to be Front-End developer and passionate in developing UI of website as well .
 
 <b>My Tech Stacks :</b><br> 
-<img style="height:10px;width:10px;" src="html.png"/>
+<img width="10px" src="html.png"/>
 <img style="height:10px;width:10px;" src="js.png"/>
 <img style="height:10px;width:10px;" src="jquery.jpg"/>
-<img style="height:10px;width:10px;" src="css.png"/>
+<img style="height:10px;width:10px;" src="css.jpg"/>
 
 📫 <b>How to reach me:</b> <br>
 Email: anmolreshi@gmail.com
