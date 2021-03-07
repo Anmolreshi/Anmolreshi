@@ -1,15 +1,16 @@
 ### Hi There 👋
 This is Anmol , an 2nd Year Engineering Student at University Institute of Engineering and Technology (UIET), Punjab University Chandigarh. I love ⚡ Programming in C++ mainly as it involves problem solving ,and I Love to be Front-End developer and passionate in developing UI of website as well .
 
-📫 How to reach me: <br>
+<b>My Tech Stacks :</b><br>
+<img src="https://th.bing.com/th/id/R94e59b789eebc52beeb10ba88bb49ce4?rik=9jtIyj9rowrKhA&riu=http%3a%2f%2fictacademy.com.ng%2fwp-content%2fuploads%2f2017%2f10%2f14570828119302_illu-cours_html5-css3.png&ehk=Pu456lHcjVaQQDZ0b0JMxhL9g0byZ79AImYQeER6eY4%3d&risl=&pid=ImgRaw"/>
+📫 <b>How to reach me:</b> <br>
 Email: anmolreshi@gmail.com
+
 
 <!--
 **Anmolreshi/Anmolreshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-  
+Here are some ideas to get you started:  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
