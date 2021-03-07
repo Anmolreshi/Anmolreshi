@@ -3,11 +3,11 @@ This is Anmol , an 2nd Year Engineering Student at University Institute of Engin
 
 <b>My Tech Stacks :</b><br> 
 <img width="100px" width="100px" src="html.png"/>
-<img height="80px" width="100px" src="jss.png"/>
-<img width="80px" width="100px"  src="jquery.jpg"/>
-<img width="80px" width="100px"  src="css.jpg"/>
-<img width="140px" width="100px"  src="c++.jpg"/>
-<img width="100px" width="100px"  src="word.jpg"/>
+<img height="70px" width="100px" src="jss.png"/>
+<img width="70px" width="100px"  src="jquery.jpg"/>
+<img width="70px" width="100px"  src="css.jpg"/>
+<img width="190px" width="100px"  src="c++.jpg"/>
+<img width="120px" width="100px"  src="word.jpg"/>
 
 📫 <b>How to reach me:</b> <br>
 Email: anmolreshi@gmail.com
