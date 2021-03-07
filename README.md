@@ -11,7 +11,7 @@ This is Anmol , an 2nd Year Engineering Student at University Institute of Engin
 <img width="70px" width="100px"  src="word.jpg"/>
   </span>
 
-📫 <b>How to reach me:</b> <br>
+📫<h2> <b>How to reach me:</b> <br></h2>
 Email: anmolreshi@gmail.com<br>
 Linkedin :<a href="https://www.linkedin.com/in/anmolreshi/">Anmol Reshi</a>
 
