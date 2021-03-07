@@ -13,7 +13,7 @@ This is Anmol , an 2nd Year Engineering Student at University Institute of Engin
 
 📫 <b>How to reach me:</b> <br>
 Email: anmolreshi@gmail.com<br>
-Linkedin :<link href="https://www.linkedin.com/in/anmolreshi/">Anmol Reshi</link>
+Linkedin :<a href="https://www.linkedin.com/in/anmolreshi/">Anmol Reshi</a>
 
 <!--
 **Anmolreshi/Anmolreshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
