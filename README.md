@@ -26,7 +26,7 @@ This is Anmol , an 2nd Year Engineering Student at University Institute of Engin
 <span>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolreshi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anmol GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmolreshi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmolreshi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </span>
 
 <h2> 📫<b>How to reach me:</b> <br></h2>
