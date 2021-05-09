@@ -6,6 +6,9 @@ This is Anmol , an 2nd Year Engineering Student at University Institute of Engin
 - Javascript 
 - AJAX
 - Node Js
+- Redux
+- React Hooks
+- Firebase
 
 <h2>My Tech Stacks :</br> </h2>
 <span>
