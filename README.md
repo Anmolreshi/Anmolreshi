@@ -21,6 +21,13 @@ This is Anmol , an 2nd Year Engineering Student at University Institute of Engin
   <span>
   I love to Spend my Free Time with My Rubiks Cube and Playing Chess with Sister.
   </span>
+  
+  ## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolreshi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmolreshi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2> 📫<b>How to reach me:</b> <br></h2>
 Email: <a href="mailto:anmolreshi@gmail.com">anmolreshi@gmail.com<br></a>
