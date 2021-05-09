@@ -1,4 +1,5 @@
 ### Hi There 👋
+<img style="height:100px" src="background.jpg"/>
 This is Anmol , an 2nd Year Engineering Student at University Institute of Engineering and Technology (UIET), Punjab University Chandigarh. I love ⚡ Programming in C++ mainly as it involves problem solving ,and I Love to be Front-End developer and passionate in developing UI of website as well .<br>
 
 <h2>🌱 I’m currently learning </h2>
