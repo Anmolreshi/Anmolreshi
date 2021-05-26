@@ -39,11 +39,8 @@ Linkedin :<a href="https://www.linkedin.com/in/anmolreshi/">Anmol Reshi</a> -->
 
 
 
-<span align="left">My name is Daniel Fjeldstad and I have been working with webdesign and development since 2000. <br/><br />I have experience with a wide range of languages and tools, like: 
-<br /> <br />
-  Javascript, Typescript, PHP, React, Vue 2 and 3, Gatsby, Nextjs, Nuxtjs, Laravel, WordPress, WooCommerce and many more.
-  <br /> <br />
-  I particularly value code quality, continuous improvement and following best coding practices as much as possible. 
+<span align="left">
+  This is Anmol , an 2nd Year Engineering Student at University Institute of Engineering and Technology (UIET), Punjab University Chandigarh.<br/> I love ⚡ Programming in C++ mainly as it involves problem solving ,and I Love to be Front-End developer and passionate in developing UI of website as well .<br/>
 </span>
 
 <h2 align="center">🛠️ Languages</h2>
