@@ -1,6 +1,6 @@
 ### Hi There 👋
 <img style="height:100px" src="background.jpg"/>
-<!-- This is Anmol , an 2nd Year Engineering Student at University Institute of Engineering and Technology (UIET), Punjab University Chandigarh. I love ⚡ Programming in C++ mainly as it involves problem solving ,and I Love to be Front-End developer and passionate in developing UI of website as well .<br>
+ This is Anmol , an 2nd Year Engineering Student at University Institute of Engineering and Technology (UIET), Punjab University Chandigarh. I love ⚡ Programming in C++ mainly as it involves problem solving ,and I Love to be Front-End developer and passionate in developing UI of website as well .<br>
 
 <h2>🌱 I’m currently learning </h2>
 - React 
@@ -26,6 +26,15 @@
   I love to Spend my Free Time with My Rubiks Cube and Playing Chess with Sister.
   </span>
   
+  <h2 align="center">📈 Github Stats</h2>
+<p align="center">
+<a href="https://github.com/w3bdesign">
+  <img height="200" align="center" src="https://github-readme-stats-six-rho.vercel.app/api?username=Anmolreshi&show_icons=true&hide_border=false&count_private=true" />
+</a>
+<a href="https://github.com/w3bdesign">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolreshi&hide=html,css" alt="Daniel's GitHub Stats" />
+</a>
+  </p>
   ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolreshi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -35,43 +44,12 @@
 
 <h2> 📫<b>How to reach me:</b> <br></h2>
 Email: <a href="mailto:anmolreshi@gmail.com">anmolreshi@gmail.com<br></a>
-Linkedin :<a href="https://www.linkedin.com/in/anmolreshi/">Anmol Reshi</a> -->
+Linkedin :<a href="https://www.linkedin.com/in/anmolreshi/">Anmol Reshi</a>
 
 
 
-<span align="left">
-  This is Anmol , an 2nd Year Engineering Student at University Institute of Engineering and Technology (UIET), Punjab University Chandigarh.<br/> I love ⚡ Programming in C++ mainly as it involves problem solving ,and I Love to be Front-End developer and passionate in developing UI of website as well .<br/>
-</span>
 
-<h2 align="center">🛠️ Languages</h2>
-<p align="center">
-  <img height="50" width="50" alt="Javascript" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/javascript.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="Typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/typescript.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="PHP" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/php.svg" />&nbsp;&nbsp;&nbsp;&nbsp; 
-</p>
-<h2 align="center">🛠️ Tools</h2>
-<p align="center">
-  <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/react.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/vue-dot-js.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="mysql" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mysql.svg" />&nbsp;&nbsp;&nbsp;&nbsp;  
-  <img height="50" width="50" alt="wordpress" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/wordpress.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="magento" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/laravel.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="gatsby" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/gatsby.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="nextjs" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/next-dot-js.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="docker" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/docker.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="graphql" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/graphql.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="adobe" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/adobe.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<hr />
-<h2 align="center">📈 Github Stats</h2>
-<p align="center">
-<a href="https://github.com/w3bdesign">
-  <img height="200" align="center" src="https://github-readme-stats-six-rho.vercel.app/api?username=Anmolreshi&show_icons=true&hide_border=false&count_private=true" />
-</a>
-<a href="https://github.com/w3bdesign">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolreshi&hide=html,css" alt="Daniel's GitHub Stats" />
-</a>
-  </p>
+
 <!--
 **Anmolreshi/Anmolreshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
