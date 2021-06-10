@@ -32,14 +32,9 @@
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolreshi" alt="Anmol's GitHub Stats" />
 </a>
   </p>
-<!--   ## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolreshi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmolreshi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmolreshi1&theme=dark)](https://git.io/streak-stats)
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
 
 
 <h2> 📫<b>How to reach me:</b> <br></h2>
