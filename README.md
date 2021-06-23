@@ -42,7 +42,7 @@ Email: <a href="mailto:anmolreshi@gmail.com">anmolreshi@gmail.com<br></a>
 Linkedin :<a href="https://www.linkedin.com/in/anmolreshi/">Anmol Reshi</a>
 
 
-
+💬 Ask me about ...
 
 
 <!--
