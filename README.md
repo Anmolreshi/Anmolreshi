@@ -21,10 +21,10 @@ An Undergrand Engineering Student at University Institute of Engineering and Tec
   <span>
   I love to Spend my Free Time with My Rubiks Cube and Playing Chess with Sister.
   </span>
-  <h2>- 👯 Acheivements </h2>
-- Managing Director @sudans Tech 
-- Contributed at @Hack The Mountains 2.0 , @GirlScript , @Himalayan Foundadation , @Rotaract Chandigarah Himalayan 
-- Web Developer at Google Developer Group 
+  <h2> 👯 Acheivements </h2>
+- Managing Director @sudans Tech <br/>
+- Contributed at @Hack The Mountains 2.0 , @GirlScript , @Himalayan Foundadation , @Rotaract Chandigarah Himalayan <br/>
+- Web Developer at Google Developer Group <br/>
 
   
 <h2>💬 <b>How to reach me:</b> <br></h2>
