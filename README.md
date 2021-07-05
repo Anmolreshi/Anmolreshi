@@ -18,7 +18,7 @@
 - React Hooks
 - Firebase
   
-  <h2>⚡## Fun fact:</h2>
+  <h2>⚡ Fun fact:</h2>
   <span>
   I love to Spend my Free Time with My Rubiks Cube and Playing Chess with Sister.
   </span>
