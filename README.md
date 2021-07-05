@@ -1,9 +1,8 @@
-### Hi There 👋
-<img style="height:100px" src="background.jpg"/>
- This is Anmol , an 2nd Year Engineering Student at University Institute of Engineering and Technology (UIET), Punjab University Chandigarh. I love ⚡ Programming in C++ mainly as it involves problem solving ,and I Love to be Front-End developer and passionate in developing UI of website as well .<br>
-
-
-<h2>🌱  ## What I Work on </br> </h2>
+### Anmol Reshi 
+<!-- <img style="height:100px" src="background.jpg"/> -->
+## 🧐 About
+An Undergrand Engineering Student at University Institute of Engineering and Technology (UIET), Punjab University Chandigarh , Loves to Contribute in Open Source, A passionate Front End Developer who loves to develop Responsive Pages and I am an Community Enthusiast and Love to Help the to student Community out there and aiming to impact the world a making present a little better than yesterday.
+<h2>🌱  What I Work on </br> </h2>
 - React 
 - Next Js
 - Javascript 
@@ -18,19 +17,16 @@
 - React Hooks
 - Firebase
   
-  <h2>⚡ Fun fact:</h2>
+  <h2>⚡ Fun fact</h2>
   <span>
   I love to Spend my Free Time with My Rubiks Cube and Playing Chess with Sister.
   </span>
   
-
-
-<h2> 📫<b>How to reach me:</b> <br></h2>
+<h2>💬 <b>How to reach me:</b> <br></h2>
 Email: <a href="mailto:anmolreshi@gmail.com">anmolreshi@gmail.com<br></a>
 Linkedin :<a href="https://www.linkedin.com/in/anmolreshi/">Anmol Reshi</a>
-
-
-💬 Ask me about ...
+Instagram :<a href="https://www.instagram.com/iamanmolreshi_20/">Anmol Reshi</a>
+Blogs : <a href="https://medium.com/@anmolreshi">Anmol Reshi</a>
 
 I am Coomunity Enthusiast do reach me out for Community Work
 <!--
