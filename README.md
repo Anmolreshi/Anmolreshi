@@ -21,14 +21,18 @@ An Undergrand Engineering Student at University Institute of Engineering and Tec
   <span>
   I love to Spend my Free Time with My Rubiks Cube and Playing Chess with Sister.
   </span>
+  <h2>- 👯 Acheivements </h2>
+- Managing Director @sudans Tech 
+- Contributed at @Hack The Mountains 2.0 , @GirlScript , @Himalayan Foundadation , @Rotaract Chandigarah Himalayan 
+- Web Developer at Google Developer Group 
+
   
 <h2>💬 <b>How to reach me:</b> <br></h2>
-Email: <a href="mailto:anmolreshi@gmail.com">anmolreshi@gmail.com<br></a>
-Linkedin :<a href="https://www.linkedin.com/in/anmolreshi/">Anmol Reshi</a>
-Instagram :<a href="https://www.instagram.com/iamanmolreshi_20/">Anmol Reshi</a>
-Blogs : <a href="https://medium.com/@anmolreshi">Anmol Reshi</a>
+Email: <a href="mailto:anmolreshi@gmail.com">anmolreshi@gmail.com<br></a><br/>
+Linkedin :<a href="https://www.linkedin.com/in/anmolreshi/">Anmol Reshi</a><br/>
+Instagram :<a href="https://www.instagram.com/iamanmolreshi_20/">Anmol Reshi</a><br/>
+Blogs : <a href="https://medium.com/@anmolreshi">Anmol Reshi</a><br/>
 
-I am Coomunity Enthusiast do reach me out for Community Work
 <!--
 **Anmolreshi/Anmolreshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
