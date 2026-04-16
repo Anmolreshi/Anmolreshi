@@ -3,7 +3,7 @@
 ## 🧐 About
 Software Engineer | Community Builder | Innovator
 
-From crafting scalable web solutions to empowering global developer communities, I thrive at the intersection of technology and collaboration. With 2+ years of experience in front-end development and API integration, I specialize in building user-centric, mobile-responsive applications that deliver results. At Incedo Inc., I’ve played a pivotal role in projects , enhancing business communication through innovative features and reducing bugs by 85% across four distinct environments.
+From crafting scalable web solutions to empowering global developer communities, I thrive at the intersection of technology and collaboration. With 3.5+ years of experience in front-end development and API integration, I specialize in building user-centric, mobile-responsive applications that deliver results. At Incedo Inc., I’ve played a pivotal role in projects , enhancing business communication through innovative features and reducing bugs by 85% across four distinct environments.
 
 Beyond the code, I’m the driving force behind Hack The Mountains, an international hackathon that has brought together over 12,000 developers to learn, create, and innovate. As a founding member of Sudan’s Technocrats Foundation, I’ve helped organize 50+ tech events, impacting 20,000+ students globally. For me, building a community is as rewarding as building software.
 
